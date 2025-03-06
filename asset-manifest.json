@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ningukonin/PizzaFlare.git/static/css/main.c2ebd626.css",
+    "main.js": "/ningukonin/PizzaFlare.git/static/js/main.abfb7a04.js",
+    "static/js/453.8adef3d5.chunk.js": "/ningukonin/PizzaFlare.git/static/js/453.8adef3d5.chunk.js",
+    "index.html": "/ningukonin/PizzaFlare.git/index.html",
+    "main.c2ebd626.css.map": "/ningukonin/PizzaFlare.git/static/css/main.c2ebd626.css.map",
+    "main.abfb7a04.js.map": "/ningukonin/PizzaFlare.git/static/js/main.abfb7a04.js.map",
+    "453.8adef3d5.chunk.js.map": "/ningukonin/PizzaFlare.git/static/js/453.8adef3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ebd626.css",
+    "static/js/main.abfb7a04.js"
+  ]
+}
